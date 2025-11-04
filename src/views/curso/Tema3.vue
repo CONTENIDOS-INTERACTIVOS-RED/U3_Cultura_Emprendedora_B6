@@ -165,7 +165,7 @@
             p(data-aos="fade-left").mb-4.text-white Para estudiar la temática, lo invitamos a escuchar el siguiente podcast.
     
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Coca-Cola y su estrategia de etnomarketing"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )

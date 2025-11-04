@@ -200,7 +200,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=eRwQdUxLHtk&ab_channel=Networkers4Life" target="_blank" rel="noopener noreferrer") Networkers 4Life (2025, 11 de enero). Plan de acción Pte 1 y Estrategia 2025. Dr Herminio Nevarez [Video].Youtube. 
+              a(href="https://youtu.be/aM158Au8tXQ?si=HjpxUzJv_Wk2Nc_1" target="_blank" rel="noopener noreferrer") Networkers 4Life (2025, 11 de enero). Plan de acción Pte 1 y Estrategia 2025. Dr Herminio Nevarez [Video].Youtube. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
